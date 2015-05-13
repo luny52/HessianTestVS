@@ -35,8 +35,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Hessiancsharp">
-      <HintPath>..\..\lib\Hessiancsharp.dll</HintPath>
+    <Reference Include="Hessiancsharp, Version=1.0.1873.35216, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\lib\Hessiancsharp.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
