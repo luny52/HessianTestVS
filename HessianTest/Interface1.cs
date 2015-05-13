@@ -7,7 +7,6 @@ namespace HessianTest
 {
     interface Isay
     {
-        //s++
          String sayHello(String arg1, String arg2);
          String sayHello2(String arg1, String arg2);
         //lll
